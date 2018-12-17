@@ -1,0 +1,23 @@
+* {
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#cabecera {
+  margin: 20px auto;
+  padding: 0px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 20px;
+  border: 2px solid red;
+}
+
+#navegacion {
+  display: inline-table;
+  list-style: none;
+
+}
