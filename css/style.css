@@ -1,6 +1,7 @@
 * {
   padding: 0px;
   font-family: sans-serif;
+  margin: 0px;
 }
 
 #content {
@@ -19,5 +20,31 @@
 #navegacion {
   display: inline-table;
   list-style: none;
+  text-align: left;
+  float: 
+}
 
+#seccion_1 {
+  text-align: left;
+}
+
+#grupo1 {
+  text-align: center;
+  font-family: arial;
+}
+
+#seccion_2{
+  text-align: left;
+}
+
+#grupo2{
+  text-align: center;
+}
+
+#imagen_patas_animales{
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
 }
