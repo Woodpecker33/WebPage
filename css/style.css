@@ -2,29 +2,37 @@
   padding: 0px;
   font-family: sans-serif;
   margin: 0px;
+  background-color: #000;
+  color: #fff;
 }
 
 #content {
+  width: 960px;
   text-align: center;
+  margin: 15px auto;
 }
 
 #cabecera {
-  margin: 20px auto;
-  padding: 0px;
+  padding: 20px;
   background-color: #000;
   color: #fff;
   border-radius: 20px;
   border: 2px solid red;
+  float: left;
 }
 
 #navegacion {
-  display: inline-table;
-  list-style: none;
-  text-align: left;
-  float: 
+  padding: 20px 15px;
+}
+
+#navegacion li{
+  display: inline-block;
+  padding: 15px;
+  font: bold 14px verdana, sans-serif;
 }
 
 #seccion_1 {
+  clear:both;
   text-align: left;
 }
 
